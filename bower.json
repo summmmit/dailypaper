@@ -23,6 +23,7 @@
     "tests"
   ],
   "dependencies": {
-    "angular-material": "^1.0.7"
+    "angular-material": "^1.0.7",
+    "moment": "^2.13.0"
   }
 }
